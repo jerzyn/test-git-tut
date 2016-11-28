@@ -1,0 +1,23 @@
+MySQL OpenHDS database description
+
+Entities Tables: 
+  Individual
+  Socialgroup
+  Location
+
+Actions Tables:
+  Outcome
+  Death
+  Outmigration
+  Inmigration
+
+Auxiliary Tables:
+  Pregnancy Outcome
+  Pregnancy Outcome Outcome
+  Pregnancy Observation
+  Membership
+  Relationship
+  Residency
+  Visit
+
+
